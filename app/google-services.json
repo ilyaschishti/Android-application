@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749272368570",
+    "project_id": "ilyas-cs-143",
+    "storage_bucket": "ilyas-cs-143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749272368570:android:760a968124e9afc9474983",
+        "android_client_info": {
+          "package_name": "com.example.mysemesterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9P_3F0zjk1KdauVNBK8dkVrU5vHByZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749272368570:android:61a8da0ce086ab95474983",
+        "android_client_info": {
+          "package_name": "com.example.semesterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9P_3F0zjk1KdauVNBK8dkVrU5vHByZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
